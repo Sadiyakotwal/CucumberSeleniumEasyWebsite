@@ -7,7 +7,6 @@ import com.generic.BaseTest;
 
 public class InputFormSubmitPage 
 {
-	
 	private BaseTest objBaseTest;
 	public boolean blnFlag = false;
 	/**

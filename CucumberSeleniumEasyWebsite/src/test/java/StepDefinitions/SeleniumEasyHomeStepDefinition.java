@@ -2,6 +2,7 @@ package StepDefinitions;
 
 
 import java.util.List;
+
 import java.util.Map;
 
 import org.openqa.selenium.By;
@@ -36,9 +37,8 @@ public class SeleniumEasyHomeStepDefinition extends BaseTest
 	}
 	
 	@Given("User is on selenium easy page")
-	public void user_is_on_selenium_easy_page() 
-	{
-		//objSeleniumEasyDemoHomePage.navigateToHomePage();
+	public void user_is_on_selenium_easy_page() {
+	
 	}
 
 	@When("Chrome browser is lauched and url is entered")
